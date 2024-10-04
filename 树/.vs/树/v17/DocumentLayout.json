@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cpp_file\\\u6570\u636E\u7ED3\u6784\\\u6811\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74E7D783-D3DC-4476-BD1D-878DF6EB4308}|\u6811.vcxproj|D:\\cpp_file\\\u6570\u636E\u7ED3\u6784\\\u6811\\\u54C8\u592B\u66FC\u6811.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74E7D783-D3DC-4476-BD1D-878DF6EB4308}|\u6811.vcxproj|solutionrelative:\u54C8\u592B\u66FC\u6811.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E7D783-D3DC-4476-BD1D-878DF6EB4308}|\u6811.vcxproj|D:\\cpp_file\\\u6570\u636E\u7ED3\u6784\\\u6811\\btree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74E7D783-D3DC-4476-BD1D-878DF6EB4308}|\u6811.vcxproj|solutionrelative:btree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u54C8\u592B\u66FC\u6811.cpp",
+              "DocumentMoniker": "D:\\cpp_file\\\u6570\u636E\u7ED3\u6784\\\u6811\\\u54C8\u592B\u66FC\u6811.cpp",
+              "RelativeDocumentMoniker": "\u54C8\u592B\u66FC\u6811.cpp",
+              "ToolTip": "D:\\cpp_file\\\u6570\u636E\u7ED3\u6784\\\u6811\\\u54C8\u592B\u66FC\u6811.cpp",
+              "RelativeToolTip": "\u54C8\u592B\u66FC\u6811.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAADwv00AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T03:52:01.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "btree.cpp",
+              "DocumentMoniker": "D:\\cpp_file\\\u6570\u636E\u7ED3\u6784\\\u6811\\btree.cpp",
+              "RelativeDocumentMoniker": "btree.cpp",
+              "ToolTip": "D:\\cpp_file\\\u6570\u636E\u7ED3\u6784\\\u6811\\btree.cpp",
+              "RelativeToolTip": "btree.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T03:51:38.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

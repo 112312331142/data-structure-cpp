@@ -1,0 +1,18 @@
+﻿SqStack.obj : error LNK2005: "bool __cdecl GetTop(struct linknode *,char &)" (?GetTop@@YA_NPEAUlinknode@@AEAD@Z) 已经在 listack.obj 中定义
+SqStack.obj : error LNK2005: "bool __cdecl Pop(struct linknode * &,char &)" (?Pop@@YA_NAEAPEAUlinknode@@AEAD@Z) 已经在 listack.obj 中定义
+SqStack.obj : error LNK2005: "bool __cdecl StackEmpty(struct linknode *)" (?StackEmpty@@YA_NPEAUlinknode@@@Z) 已经在 listack.obj 中定义
+SqStack.obj : error LNK2005: "void __cdecl DestroyStack(struct linknode * &)" (?DestroyStack@@YAXAEAPEAUlinknode@@@Z) 已经在 listack.obj 中定义
+SqStack.obj : error LNK2005: "void __cdecl InitStack(struct linknode * &)" (?InitStack@@YAXAEAPEAUlinknode@@@Z) 已经在 listack.obj 中定义
+表达式求值.obj : error LNK2005: "bool __cdecl GetTop1(struct linknode1 *,double &)" (?GetTop1@@YA_NPEAUlinknode1@@AEAN@Z) 已经在 SqStack1.obj 中定义
+表达式求值.obj : error LNK2005: "bool __cdecl Pop1(struct linknode1 * &,double &)" (?Pop1@@YA_NAEAPEAUlinknode1@@AEAN@Z) 已经在 SqStack1.obj 中定义
+表达式求值.obj : error LNK2005: "bool __cdecl Push1(struct linknode1 * &,double)" (?Push1@@YA_NAEAPEAUlinknode1@@N@Z) 已经在 SqStack1.obj 中定义
+表达式求值.obj : error LNK2005: "bool __cdecl StackEmpty1(struct linknode1 *)" (?StackEmpty1@@YA_NPEAUlinknode1@@@Z) 已经在 SqStack1.obj 中定义
+表达式求值.obj : error LNK2005: "void __cdecl DestroyStack1(struct linknode1 * &)" (?DestroyStack1@@YAXAEAPEAUlinknode1@@@Z) 已经在 SqStack1.obj 中定义
+表达式求值.obj : error LNK2005: "void __cdecl InitStack1(struct linknode1 * &)" (?InitStack1@@YAXAEAPEAUlinknode1@@@Z) 已经在 SqStack1.obj 中定义
+表达式求值.obj : error LNK2005: "bool __cdecl GetTop(struct linknode *,char &)" (?GetTop@@YA_NPEAUlinknode@@AEAD@Z) 已经在 listack.obj 中定义
+表达式求值.obj : error LNK2005: "bool __cdecl Pop(struct linknode * &,char &)" (?Pop@@YA_NAEAPEAUlinknode@@AEAD@Z) 已经在 listack.obj 中定义
+表达式求值.obj : error LNK2005: "bool __cdecl Push(struct linknode * &,char)" (?Push@@YA_NAEAPEAUlinknode@@D@Z) 已经在 SqStack.obj 中定义
+表达式求值.obj : error LNK2005: "bool __cdecl StackEmpty(struct linknode *)" (?StackEmpty@@YA_NPEAUlinknode@@@Z) 已经在 listack.obj 中定义
+表达式求值.obj : error LNK2005: "void __cdecl DestroyStack(struct linknode * &)" (?DestroyStack@@YAXAEAPEAUlinknode@@@Z) 已经在 listack.obj 中定义
+表达式求值.obj : error LNK2005: "void __cdecl InitStack(struct linknode * &)" (?InitStack@@YAXAEAPEAUlinknode@@@Z) 已经在 listack.obj 中定义
+D:\cpp文件\栈\x64\Release\栈.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
